@@ -1,0 +1,3 @@
+picnicItems = {'apples':1,'cups':2}
+
+picnicItems.get('eggs', 'There are no eggs')
